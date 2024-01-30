@@ -3,7 +3,8 @@ Benvenuti nell'organizzazione del progetto *MercaLibri Unitn*, sviluppato nel co
 
 In questa organizzazione sono presenti i documenti di progetto e tutti i file coinvolti nella realizzazione del progetto.
 
-*MercaLibri Unitn* è disponibile al seguente URL: <https://merca-libri-unitn-31e0f9ac1d17.herokuapp.com/>.
+*MercaLibri Unitn* è disponibile al seguente URL: <https://merca-libri-unitn-31e0f9ac1d17.herokuapp.com/>.  
+Si noti che il sistema sarà disponibile fino alla scadenza del deployment.
 
 ### **Membri del Team**
 - Enrico Cescato
