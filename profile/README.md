@@ -3,9 +3,37 @@ Benvenuti nell'organizzazione del progetto *MercaLibri Unitn*, sviluppato nel co
 
 In questa organizzazione sono presenti i documenti di progetto e tutti i file coinvolti nella realizzazione del progetto.
 
+&nbsp;
+
+*MercaLibri Unitn* è disponibile al seguente URL: <https://merca-libri-unitn-31e0f9ac1d17.herokuapp.com/>.
+
+&nbsp;
+
+Per ragioni tecniche, è stato deciso di implementare la procedura di autenticazione direttamente all'interno del sistema MercaLibri Unitn, anziché aderire alla procedura originariamente prevista tramite la pagina Unitn Login.
+Si noti che gli utenti sono stati preregistrati nel database del sistema con gli indirizzi e-mail Unitn.
+
+Gli utenti salvati nel database hanno tutti l'indirizzo e-mail della forma nome.cognome@studenti.unitn.it e password 1234. Gli utenti salvati sono i seguenti:
+
+- Francesca Viola;
+- Luigi Azzurro;
+- Sara Marrone;
+- Alessio Celeste;
+- Elena Rosa;
+- Marco Gialli;
+- Anna Neri;
+- Mario Rossi.
+
+&nbsp;
+
+La documentazione delle API tramite *Swagger* è disponibile al seguente URL: <https://merca-libri-unitn-31e0f9ac1d17.herokuapp.com/api-docs>. Per poter utilizzare le API, è necessario specificare lo schema *https*.
+
+&nbsp;
+
 ### **Membri del Team**
 - Enrico Cescato
 - Matteo Sottocornola
+
+&nbsp;
 
 ### **Tecnologie utilizzate**
 - **Node.js**: usato per lo sviluppo del backend;
@@ -28,4 +56,4 @@ In questa organizzazione sono presenti i documenti di progetto e tutti i file co
 
 - **Postman**: development environment usato per testare e verificare la correttezza delle API;
 
-- **Railway**: deployment platform usata per distribuire la WebApp.
+- **Heroku**: deployment platform usata per distribuire la WebApp.
