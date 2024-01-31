@@ -34,7 +34,7 @@ Si noti che il sistema sarà disponibile fino alla scadenza del deployment.
 - **Heroku**: deployment platform usata per distribuire la WebApp.
 
 ### ***Nota tecnica***
-Per ragioni tecniche, è stato deciso di implementare la procedura di autenticazione direttamente all'interno del sistema MercaLibri Unitn, anziché aderire alla procedura originariamente prevista tramite la pagina Unitn Login.
+Per ragioni tecniche, è stato deciso di implementare la procedura di autenticazione direttamente all'interno del sistema MercaLibri Unitn, anziché aderire alla procedura originariamente prevista tramite la pagina *Unitn Login*.
 Si noti che gli utenti sono stati preregistrati nel database del sistema con gli indirizzi e-mail Unitn.
 
 Gli utenti salvati nel database hanno tutti l'indirizzo e-mail della forma *nome.cognome@studenti.unitn.it* (tutto in minuscolo) e password *1234*. Alcuni utenti salvati sono i seguenti:
