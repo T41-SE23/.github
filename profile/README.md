@@ -1,5 +1,5 @@
 ## **MercaLibri Unitn**
-Benvenuti nell'organizzazione del progetto *MercaLibri Unitn*, sviluppato nel contesto del corso di Ingegneria del Software presso l'Università degli Studi di Trento (a.a. 2022/2023). Il progetto consiste nel realizzare il sito web *MercaLibri Unitn* per la compravendita di libri tra gli studenti dell’Università di Trento.
+Benvenuti nell'organizzazione del progetto *MercaLibri Unitn*, sviluppato per il corso di Ingegneria del software presso l'Università di Trento (a.a. 2022/2023). Il progetto consiste nella realizzazione del sito web *MercaLibri Unitn* per la compravendita di libri tra gli studenti dell’Università di Trento.
 
 In questa organizzazione sono presenti i documenti di progetto e tutti i file coinvolti nella realizzazione del progetto.
 
@@ -15,11 +15,9 @@ Si noti che il sistema sarà disponibile fino alla scadenza del deployment.
 
 - **CSS**: usato per definire stile e presentazione delle pagine web;
 
-- **HTML**: usato per strutturare le pagine web;
-
 - **Vue.js**: usato per lo sviluppo del frontend;
 
-- **Jest**: usato per testare la WebApp;
+- **Jest**: usato per testare la web app;
 
 - **Markdown**: usato per la stesura dei documenti di progetto;
 
@@ -31,10 +29,10 @@ Si noti che il sistema sarà disponibile fino alla scadenza del deployment.
 
 - **Postman**: development environment usato per testare e verificare la correttezza delle API;
 
-- **Heroku**: deployment platform usata per distribuire la WebApp.
+- **Heroku**: deployment platform usata per distribuire la web app.
 
 ### ***Nota tecnica***
-Per ragioni tecniche, è stato deciso di implementare la procedura di autenticazione direttamente all'interno del sistema MercaLibri Unitn, anziché aderire alla procedura originariamente prevista tramite la pagina *Unitn Login*.
+Per ragioni tecniche, è stato deciso di implementare la procedura di autenticazione direttamente all'interno del sistema *MercaLibri Unitn*, anziché aderire alla procedura originariamente prevista tramite la pagina *Unitn Login*.
 Si noti che gli utenti sono stati preregistrati nel database del sistema con gli indirizzi e-mail Unitn.
 
 Gli utenti salvati nel database hanno tutti l'indirizzo e-mail della forma *nome.cognome@studenti.unitn.it* (tutto in minuscolo) e password *1234*. Alcuni utenti salvati sono i seguenti:
